@@ -1,14 +1,1 @@
-{
-  "Settings": {
-    "Model": "LoveDragon",
-    "AutoClick": true,
-    "AutoFight": true,
-    "HatchAmount": "Max",
-    "EggSelect": "Valentines",
-    "AutoHatch": false
-  },
-  "Metadata": {
-    "SaveManager_RemoteUrl": "",
-    "LastUpdated": 1771187545
-  }
-}
+{"objects":[{"idx":"ModelDropdown","type":"Dropdown","mutli":false,"displayer":false,"value":"LoveDragon","Timestamp":1771644027.4103127},{"idx":"AutoClick","type":"Toggle","Timestamp":1771644028.1154099,"value":true},{"idx":"AutoFight","type":"Toggle","Timestamp":1771644028.1157714,"value":true},{"idx":"HatchAmount","type":"Dropdown","mutli":false,"displayer":false,"value":"Max","Timestamp":1771644028.1164654},{"idx":"EggSelect","type":"Dropdown","mutli":false,"displayer":false,"value":"Valentines","Timestamp":1771644028.11885},{"idx":"AutoHatch","type":"Toggle","Timestamp":1771644028.5092314,"value":false},{"idx":"SaveManager_RemoteUrl","type":"Input","Timestamp":1771644031.6184757,"text":"https://raw.githubusercontent.com/Krishna07-kkr/remotesavemanager/refs/heads/main/config"}]}
