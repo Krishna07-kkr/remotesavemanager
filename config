@@ -1,1 +1,14 @@
-{"objects":[{"idx":"ModelDropdown","type":"Dropdown","mutli":false,"displayer":false,"value":"LoveDragon","Timestamp":1771187544.1492444},{"idx":"AutoClick","type":"Toggle","Timestamp":1771187544.3814293,"value":true},{"idx":"AutoFight","type":"Toggle","Timestamp":1771187544.3817507,"value":true},{"idx":"HatchAmount","type":"Dropdown","mutli":false,"displayer":false,"value":"Max","Timestamp":1771187544.3825694},{"idx":"EggSelect","type":"Dropdown","mutli":false,"displayer":false,"value":"Valentines","Timestamp":1771187544.3846107},{"idx":"AutoHatch","type":"Toggle","Timestamp":1771187544.5163503,"value":false},{"idx":"SaveManager_RemoteUrl","type":"Input","Timestamp":1771187545.5529028,"text":""}]}
+{
+  "Settings": {
+    "Model": "LoveDragon",
+    "AutoClick": true,
+    "AutoFight": true,
+    "HatchAmount": "Max",
+    "EggSelect": "Valentines",
+    "AutoHatch": false
+  },
+  "Metadata": {
+    "SaveManager_RemoteUrl": "",
+    "LastUpdated": 1771187545
+  }
+}
