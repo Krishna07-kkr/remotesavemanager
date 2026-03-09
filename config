@@ -1,1 +1,9 @@
-{"objects":[{"idx":"ModelDropdown","type":"Dropdown","mutli":false,"displayer":false,"value":"Experiment1","Timestamp":1772936271.855072},{"idx":"AutoClick","type":"Toggle","Timestamp":1772936272.5552996,"value":true},{"idx":"AutoFight","type":"Toggle","Timestamp":1772936272.5557368,"value":true},{"idx":"HatchAmount","type":"Dropdown","mutli":false,"displayer":false,"value":"Max","Timestamp":1772936272.556518},{"idx":"EggSelect","type":"Dropdown","mutli":false,"displayer":false,"value":"Chaotic","Timestamp":1772936272.559436},{"idx":"AutoHatch","type":"Toggle","Timestamp":1772936272.955002,"value":true},{"idx":"SaveManager_RemoteUrl","type":"Input","Timestamp":1772936276.0604234,"text":"https://raw.githubusercontent.com/Krishna07-kkr/remotesavemanager/refs/heads/main/config"}]}
+{
+  "Model": "Experiment1",
+  "AutoClick": false,
+  "AutoFight": false,
+  "HatchAmount": "Max",
+  "EggSelect": "Chaotic",
+  "AutoHatch": false,
+  "RemoteUrl": "https://raw.githubusercontent.com/Krishna07-kkr/remotesavemanager/refs/heads/main/config"
+}
